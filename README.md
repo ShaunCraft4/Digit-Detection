@@ -1,2 +1,2 @@
 # Digit-Detection
-A Python based AI project, designed to detect numbers from hand written numbers. 
+Please make sure to first run the commented program at the top if you decide not to download the the .pt file
